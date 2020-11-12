@@ -6,7 +6,7 @@ A Dart CLI project displays  free video list  from course: "Flutter & Dart - The
 #### Step 1
 Download or clone this repo by using the link below:
 ```bash
-https://github.com/klyovan/epileptic_hell.git
+https://github.com/klyovan/parse_course.git
 ```
 #### Step 2
 Before  start application make sure you have installed libraries to run the app, execute the following command in console to intall them:
